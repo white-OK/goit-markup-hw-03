@@ -45,6 +45,9 @@ p {
 /* #endregion */
 
 /* #region header */
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
 .header-container {
     display: flex;
     align-items: center;
@@ -302,6 +305,9 @@ border-radius: 0 0 4px 4px;
 }
 .ftr-logo-studio {
     color: #f4f4fd;
+    
+}
+.ftr-logo {
     display: inline-block;
     margin-bottom: 16px;
 }
